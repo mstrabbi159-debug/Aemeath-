@@ -1,6 +1,6 @@
 
 
-module.exports = {
+  module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["962994407651553302", ""], 
@@ -30,7 +30,8 @@ module.exports = {
       password: "glace",
       host: "de-01.strixnodes.com",
       port: 2010,
-      secure: ture
+      secure: true,
+
     }
   ]
 }
